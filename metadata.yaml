@@ -1,0 +1,40 @@
+_repo: Merela-ja-rannikolta-Kokoelma-kertomuksia_64381
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Brummer, Aina
+    aliases:
+    - Brummer, Aina Wilhelmina
+    - A—o
+    - A--o
+    birthdate: 1859
+    deathdate: 1884
+    gutenberg_agent_id: '52881'
+    url: http://www.gutenberg.org/2009/agents/52881
+    wikipedia: https://fi.wikipedia.org/wiki/Aina_Brummer
+creator:
+  author:
+    agent_name: Flood, Just W.
+    alias: Flood, Just Wright
+    birthdate: 1850
+    deathdate: 1936
+    gutenberg_agent_id: '52879'
+    url: http://www.gutenberg.org/2009/agents/52879
+description: ''
+gutenberg_issued: '2021-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64381'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norwegian fiction -- Translations into Finnish'
+- !lcsh 'Short stories, Norwegian -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: Vanha meriluotsi -- Hieno laivuri -- Kaunis veljeys -- Per Grinerudin
+  kihlaus ja naiminen -- Pieni kirjanen -- Vekseli -- "Täti kertoo" -- Suutari Torp.
+title: 'Merelä ja rannikolta: Kokoelma kertomuksia'
+url: http://www.gutenberg.org/ebooks/64381
